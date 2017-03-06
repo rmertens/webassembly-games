@@ -21,7 +21,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This website is intended as a curated list of games that use Web Assembly and resources about
   game development using it.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.webassemblygames.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown

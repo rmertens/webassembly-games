@@ -13,10 +13,12 @@ This website is intended as a <strong>curated list of games that use Web Assembl
 </p>
 
 |------|---|---|---|---|
-| <img src="{{ site.url }}/images/angrybotssquare.png" width="80" height="80" alt="Angry Bots" /> | AngryBots | WebGL 1.0, Unity | Fight robots and explore a 3D space station.| <a href="http://webassembly.org/demo/" target="_blank">Link</a>|
-| <img src="{{ site.url }}/images/bananabread.png" width="80" height="80" alt="Banana Bread" /> |  Banana Bread Demo |  WebGL 1.0, BananaBread Engine | First person shooter  |  <a href="https://kripken.github.io/BananaBread/wasm-demo/index.html" target="_blank">Link</a> |
-| <img src="{{ site.url }}/images/zengarden.png" width="80" height="80" alt="Zen Garden" /> |  Zen Garden Demo |  WebGL 2.0, Unreal Engine |  Interactive environment with amazing graphics |  <a href="https://s3.amazonaws.com/mozilla-games/ZenGarden/EpicZenGarden.html" target="_blank">Link</a> |
-| <img src="{{ site.url }}/images/funkykarts.png" width="80" height="80" alt="Funky Karts" /> |  Funky Karts |  C++ to WASM using Emscripten |  Fun side-scrolling kart driving game |  <a href="https://www.funkykarts.rocks/demo.html" target="_blank">Link</a> |
+| <img src="{{ site.url }}/images/angrybotssquare.png" width="80" height="80" alt="Angry Bots" /> | AngryBots | WebGL 1.0, Unity | Fight robots and explore a 3D space station.| <a href="https://beta.unity3d.com/jonas/AngryBots/" target="_blank">Link</a>|
+| <img src="{{ site.url }}/images/bananabread.png" width="80" height="80" alt="Banana Bread" /> | Banana Bread Demo |  WebGL 1.0, BananaBread Engine | First person shooter  |  <a href="https://kripken.github.io/misc-js-benchmarks/banana/index.html" target="_blank">Link</a> |
+| <img src="{{ site.url }}/images/funkykarts.png" width="80" height="80" alt="Funky Karts" /> | Funky Karts |  C++ to WASM using Emscripten |  Fun side-scrolling kart driving game |  <a href="https://www.funkykarts.rocks/demo.html" target="_blank">Link</a> |
+| <img src="{{ site.url }}/images/zombsroyale.png" width="80" height="80"  /> | Zombs Royale |  Unity |  Multiplayer .io game |  <a href="https://www.crazygames.com/game/zombsroyaleio" target="_blank">Link</a> |
+| <img src="{{ site.url }}/images/pyramidsolitaire.png" width="80" height="80"  /> | Pyramid Solitaire |  Unity |  Egypt-themed solitaire card game |  <a href="https://www.solitaireparadise.com/games_list/pyramid_solitaire_ancient_egypt.html" target="_blank">Link</a> |
+| <img src="{{ site.url }}/images/virtualworld.png" width="80" height="80" /> | Virtual World 3D |  Own engine |  3D virtual world |  <a href="https://worlds.virtualworld3d.com/" target="_blank">Link</a> |
 {:.games-table}
 <span class="contact-link">
     <a href="mailto:hello@webassemblygames.com" target="_blank">
